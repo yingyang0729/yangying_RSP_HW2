@@ -24,5 +24,5 @@ Enjoy!
 ### License 
 MIT
 
-### author
+### Author
 Ying Yang
